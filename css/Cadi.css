@@ -337,27 +337,27 @@ body{
 .contact .contact-content .text h3{
     font-size: 35px;
     font-weight: 800;
-    color: var(--secondary-color);
+    color: #2c4755;
 }
 .contact .contact-content .text a{
     font-size: 30px;
     display: block;
     color: var;
-    color: var(--secondary-color);
+    color: #2c4755;
     text-decoration: none;
     text-align: center;
     font-weight: 800;
 }
 .contact .contact-content .text p{
     font-size: 16px;
-    color: var(--secondary-color);
+    color: #2c4755;
     text-align: center;
 }
 /* End Contact */
 
 /* Start Footer */
 .footer{
-    background-color: var(--secondary-color);
+    background-color: #2c4755;
     color: white;
     padding: 30px 10px;
     text-align: center;
