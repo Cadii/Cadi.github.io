@@ -362,6 +362,7 @@ body{
     padding: 30px 10px;
     text-align: center;
     font-size: 20px;
+    height: 150px;
 }
 .footer span{
     color: var(--main-color);
@@ -376,6 +377,7 @@ body{
     margin: 5px;
     padding: 10px;
     float: right;
+    transition: 0.3s;
 }
 .top:hover{
     border: 2px solid #10cab7;
