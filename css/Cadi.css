@@ -380,4 +380,5 @@ body{
 .top:hover{
     border: 2px solid #10cab7;
     background-color: #eee;
+    color: #10cab7;
 }
