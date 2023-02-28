@@ -373,15 +373,15 @@ body{
     border: 2px solid #eee;
     color: #eee;
     border-radius: 50px;
-    background-color: #10cab7;
+    background-color: #2c4755;
     margin: 5px;
     padding: 10px;
     float: right;
     transition: 0.3s;
 }
 .top:hover{
-    border: 2px solid #10cab7;
+    border: 2px solid #2c4755;
     background-color: #eee;
-    color: #10cab7;
+    color: #2c4755;
     cursor: pointer;
 }
