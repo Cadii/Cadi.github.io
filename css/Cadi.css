@@ -248,6 +248,16 @@ body{
 .components .feat h3{
     font-weight: 800px;
     margin: 30px 0;
+    color: #1189c5;
+    transition: 0.3s;
+}
+
+.components .feat h3:hover{
+    padding: 10px;
+    background-color: #1189c5;
+    color: #eee;
+    border: 3px solid transparent;
+    border-radius: 10px;
 }
 
 .components .feat p{
